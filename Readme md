@@ -1,0 +1,22 @@
+# 🌟 My Microsoft-Style Project  
+A modern **Microsoft-inspired** web application using **Fluent UI** for a professional design.  
+
+![Fluent UI Preview](https://via.placeholder.com/800x400?text=Project+Screenshot)
+
+---
+
+## ✨ Features  
+✅ Built with **Fluent UI** for a sleek Microsoft look  
+✅ Responsive design, optimized for desktop & mobile  
+✅ Integrated with **GitHub Pages** for easy hosting  
+✅ Custom **themes and UI components**  
+
+---
+
+## 🎨 Fluent UI Preview  
+```html
+<fluent-button appearance="accent">Click Me</fluent-button>
+<fluent-card>
+  <h2>Welcome to My Microsoft-Style Page</h2>
+  <p>This is a Fluent UI card component.</p>
+</fluent-card>
